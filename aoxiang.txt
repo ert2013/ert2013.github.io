@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/s">
+
+            body {
+
+                /*background: url(./aoxiang) no-repeat;*/
+
+                background-image: url(./aoxiang);
+
+                background-repeat:no-repeat;
+
+            }
+</style>
+</head>
+</html>
